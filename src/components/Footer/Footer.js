@@ -65,8 +65,8 @@ function Footer() {
         </footer>
         <div className="copyright">
             Source Code: {" "} 
-            <a href='https://github.com/ErvieJohn/portfolio' target='_blank' rel="noreferrer">
-                https://github.com/ErvieJohn/portfolio
+            <a href='https://github.com/ErviePogi/portfolio' target='_blank' rel="noreferrer">
+                https://github.com/ErviePogi/portfolio
             </a>
             <br/>
             Special thanks to {" "}

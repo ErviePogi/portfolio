@@ -42,25 +42,24 @@ function Experience() {
         <h2 className='experience-header-title' style={{fontSize: '1.5rem'}}>EXTRA AND CO-CURRICULAR ENGAGEMENT AND VOLUNTEER WORK</h2>
         <div className="experience">
           <div className="card">
-            <h4 style={{fontSize: "1.5rem", fontWeight: 300}}>
-              Participant in the PNP – ITMS Hackathon 2022 at
-              Camp Rafael Crame PNP General Headquarters -
-              2022
-            </h4>
-          </div>
-
-          <div className="card">
-            <h4 style={{fontSize: "1.5rem", fontWeight: 300}}>
-              Working Online in Remotask - Annotating and
-              Labeling objects - 2021
-            </h4>
-          </div>
-
-          <div className="card">
-            <h4 style={{fontSize: "1.5rem", fontWeight: 300}}>
-              Participant in the BLUE HACKS 2020 at Ateneo De
-              Manila University - 2020
-            </h4>
+            <div className='experience-container-content'>
+              <h4 className='exp-h4-items' >
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                Participant in the PNP – ITMS Hackathon 2022 at
+                Camp Rafael Crame PNP General Headquarters -
+                2022
+              </h4>
+              <h4 className='exp-h4-items'>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                Working Online in Remotask - Annotating and
+                Labeling objects - 2021
+              </h4>
+              <h4 className='exp-h4-items'>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div> 
+                Participant in the BLUE HACKS 2020 at Ateneo De
+                Manila University - 2020
+              </h4>
+            </div>
           </div>
         </div>
       </div>

@@ -59,3 +59,23 @@
 .experience .card a:hover{
     color: #1e40af;
 }
+
+.experience-container-content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align:justify;
+    margin-top: 5%;
+    margin-left: 8%;
+    margin-right: 10%;
+}
+
+.exp-h4-items {
+    display: flex;
+    align-items: start;
+    font-size: 1.5rem; 
+    /* text-indent: -1.2em;
+    padding-left: 1.2em; 
+    line-height: 1.6;  */
+    font-weight: 300;
+}
