@@ -79,3 +79,29 @@
     line-height: 1.6;  */
     font-weight: 300;
 }
+
+.exp-container-content-col2{
+    display: flex;
+    flex-direction: row;
+    /* padding-left: 10%; */
+    align-items: flex-start;
+    text-align: start;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.exp-container-content-cols{
+    width: 40%;
+}
+
+@media screen and (max-width: 768px) {
+  .exp-container-content-col2 {
+    padding-left: 10%;
+    justify-content: flex-start;
+    gap: 10%;
+  }
+
+    .exp-container-content-cols{
+    width: 100%;
+  }
+}

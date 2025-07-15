@@ -36,8 +36,7 @@ import awsSNSLogo from '../../files/aws-sns.png';
 import pleskLogo from '../../files/plesk.png';
 import postfixLogo from '../../files/postfix.png';
 import cloudflareLogo from '../../files/cloudflare.png';
-
-
+import cicdLogo from '../../files/cicd.png';
 
 function Skills() {
   return (
@@ -70,7 +69,23 @@ function Skills() {
               </h4>
               <h4 className='h4-items'>
                 <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
-                Linux Scripting
+                Linux Bash Scripting
+              </h4>
+              <h4 className='h4-items'>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                SSL certificate management and renewal
+              </h4>
+              <h4 className='h4-items'>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                DNS management
+              </h4>
+              <h4 className='h4-items'>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                Basic firewall and port control
+              </h4>
+              <h4 className='h4-items'>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                Incident response and root cause analysis
               </h4>
             </div>
           </div>
@@ -214,9 +229,9 @@ function Skills() {
       </div>
 
       <div>
-        <h2 className='skills-header-title' style={{fontSize: "2.25rem"}}>Monitoring Platforms</h2>
+        <h2 className='skills-header-title' style={{fontSize: "2.25rem"}}>Monitoring Tools</h2>
         <div className="skills">
-          <div className="card">.
+          <div className="card">
             <div className='skills-container-content-col2'>
               <div>
                 <h4 className='h4-items'>
@@ -278,12 +293,17 @@ function Skills() {
                   <img src={awsSNSLogo} alt="Logo" width="25" />
                   AWS SNS
                 </h4>
-              </div>
-              <div>
                 <h4 className='h4-items'>
                   &#x27A4; 
                   <img src={cloudflareLogo} alt="Logo" width="25" />
                   Cloudflare DNS
+                </h4>
+              </div>
+              <div>
+                <h4 className='h4-items'>
+                  &#x27A4; 
+                  <img src={cicdLogo} alt="Logo" width="25" />
+                  CI/CD
                 </h4>
                 <h4 className='h4-items'>
                   &#x27A4; 
