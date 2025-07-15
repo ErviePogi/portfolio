@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.003e8eae.css",
-    "main.js": "/static/js/main.a3d40bcf.js",
+    "main.css": "/static/css/main.75603139.css",
+    "main.js": "/static/js/main.89ec2111.js",
     "static/js/592.f9cff2e0.chunk.js": "/static/js/592.f9cff2e0.chunk.js",
     "static/media/ervie_picture.png": "/static/media/ervie_picture.176758de365fc1f06f5b.png",
     "static/media/background1280_2.png": "/static/media/background1280_2.90d8ac61c07fbfe25b44.png",
@@ -32,6 +32,7 @@
     "static/media/aws-route53.png": "/static/media/aws-route53.bcb6e69377542bc2807a.png",
     "static/media/cloudflare.png": "/static/media/cloudflare.28f3f06f5f4f55e668c6.png",
     "static/media/rubyrails.png": "/static/media/rubyrails.ecc8b96c1069fff97ef0.png",
+    "static/media/cicd.png": "/static/media/cicd.52a1e088f1bdf8cc425a.png",
     "static/media/aws-ec2.png": "/static/media/aws-ec2.b9c635a8468446cf2b23.png",
     "static/media/nagios.png": "/static/media/nagios.468f5b8533c423f283a4.png",
     "static/media/postgresql.png": "/static/media/postgresql.eff27f51de6f557ab141.png",
@@ -45,12 +46,12 @@
     "static/media/pagerduty.png": "/static/media/pagerduty.381afcee633c2dee60bb.png",
     "static/media/tsh_logo.jpg": "/static/media/tsh_logo.a454aa19188722b4bd2d.jpg",
     "index.html": "/index.html",
-    "main.003e8eae.css.map": "/static/css/main.003e8eae.css.map",
-    "main.a3d40bcf.js.map": "/static/js/main.a3d40bcf.js.map",
+    "main.75603139.css.map": "/static/css/main.75603139.css.map",
+    "main.89ec2111.js.map": "/static/js/main.89ec2111.js.map",
     "592.f9cff2e0.chunk.js.map": "/static/js/592.f9cff2e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.003e8eae.css",
-    "static/js/main.a3d40bcf.js"
+    "static/css/main.75603139.css",
+    "static/js/main.89ec2111.js"
   ]
 }
