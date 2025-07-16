@@ -47,44 +47,44 @@ function Skills() {
           <div className="card">
             <div className='skills-container-content'>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div> 
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div> 
                 Able to use different operating
                 systems such as Windows/Linux
               </h4>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                 Network Security and Automation
               </h4>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                 Database Management
               </h4>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                 Hardware Troubleshooting
               </h4>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div> 
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div> 
                 Network Troubleshooting
               </h4>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                 Linux Bash Scripting
               </h4>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                 SSL certificate management and renewal
               </h4>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                 DNS management
               </h4>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                 Basic firewall and port control
               </h4>
               <h4 className='h4-items'>
-                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                 Incident response and root cause analysis
               </h4>
             </div>
@@ -328,29 +328,29 @@ function Skills() {
             <div className='skills-container-content-col2'>
               <div>
                 <h4 className='h4-items'>
-                  <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                  <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                   Hardworking
                 </h4>
                 <h4 className='h4-items'>
-                  <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                  <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                   Time Management
                 </h4>
                 <h4 className='h4-items'>
-                  <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                  <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                   Creativity
                 </h4>
               </div>
               <div>
                   <h4 className='h4-items'>
-                    <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                    <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                     Problem Solving
                   </h4>
                   <h4 className='h4-items'>
-                    <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                    <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                     Collaboration
                   </h4>
                   <h4 className='h4-items'>
-                    <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x27A4;</div>
+                    <div style={{ marginRight: "0.5rem", fontSize: 15}}>&#x25CF;</div>
                     Honest
                   </h4>
               </div>             
