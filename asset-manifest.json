@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.75603139.css",
-    "main.js": "/static/js/main.3b77ac28.js",
+    "main.js": "/static/js/main.036eabfd.js",
     "static/js/592.f9cff2e0.chunk.js": "/static/js/592.f9cff2e0.chunk.js",
+    "static/media/ErvieJohnVillareal-Resume.pdf": "/static/media/ErvieJohnVillareal-Resume.132dc3dc7250cabe39e2.pdf",
     "static/media/ervie_picture.png": "/static/media/ervie_picture.176758de365fc1f06f5b.png",
     "static/media/background1280_2.png": "/static/media/background1280_2.90d8ac61c07fbfe25b44.png",
-    "static/media/ErvieJohnVillareal-Resume.pdf": "/static/media/ErvieJohnVillareal-Resume.579b0f9afd70d4d84b34.pdf",
     "static/media/kcoop.png": "/static/media/kcoop.f00522d94550f1e897bd.png",
     "static/media/python.png": "/static/media/python.28e5511f0a05b1340e19.png",
     "static/media/haproxy.png": "/static/media/haproxy.fc642cee4f5142665cc3.png",
@@ -35,6 +35,7 @@
     "static/media/cicd.png": "/static/media/cicd.52a1e088f1bdf8cc425a.png",
     "static/media/aws-ec2.png": "/static/media/aws-ec2.b9c635a8468446cf2b23.png",
     "static/media/nagios.png": "/static/media/nagios.468f5b8533c423f283a4.png",
+    "static/media/credly.png": "/static/media/credly.cf6c1c17d92653408322.png",
     "static/media/postgresql.png": "/static/media/postgresql.eff27f51de6f557ab141.png",
     "static/media/patroni.png": "/static/media/patroni.d6c86e338bd4c4c67c72.png",
     "static/media/zabbix.png": "/static/media/zabbix.26e4decbdea164a4eef1.png",
@@ -47,11 +48,11 @@
     "static/media/tsh_logo.jpg": "/static/media/tsh_logo.a454aa19188722b4bd2d.jpg",
     "index.html": "/index.html",
     "main.75603139.css.map": "/static/css/main.75603139.css.map",
-    "main.3b77ac28.js.map": "/static/js/main.3b77ac28.js.map",
+    "main.036eabfd.js.map": "/static/js/main.036eabfd.js.map",
     "592.f9cff2e0.chunk.js.map": "/static/js/592.f9cff2e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75603139.css",
-    "static/js/main.3b77ac28.js"
+    "static/js/main.036eabfd.js"
   ]
 }
