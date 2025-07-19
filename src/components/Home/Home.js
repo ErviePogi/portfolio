@@ -9,6 +9,7 @@ import Education from '../Education/Education';
 import Projects from '../Projects/Projects';
 import Skills from '../Skills/Skills';
 import Footer from '../Footer/Footer';
+import credlyLogo from '../../files/credly.png';
 
 function Home() {
   
@@ -45,11 +46,10 @@ function Home() {
                 </div>                
                 
                 <label className='home-text-description' style={{ color: 'white', textAlign: 'justify' }}>
-                    A programmer with knowledge of Full-Stack Software
-                    Development and experience in both web and mobile
-                    development. Focused on using technical skills and smart
-                    problem-solving approaches to work on different projects
-                    in the tech world.
+                    A Full-Stack Developer with junior-level experience as a System Engineer, working across web 
+                    and mobile development, and helping maintain secure, high-availability Linux server environments. 
+                    Skilled in system monitoring, SSL/DNS management, automated backups, and providing technical 
+                    support and troubleshooting with a problem-solving mindset.
                 </label>  
 
                 <div style={{marginTop: 15, display: "flex", flexDirection: "row", gap: 20}}>
@@ -61,6 +61,9 @@ function Home() {
                   </a>
                   <a href='https://www.linkedin.com/in/ervie-john-villareal-298b33153' target='_blank' rel="noreferrer">
                     <FaLinkedin size={50} color='white' />
+                  </a>
+                  <a href='https://www.credly.com/users/erviejohn' target='_blank' rel="noreferrer">
+                    <img src={credlyLogo} alt="Logo" width="48" />
                   </a>
                   {/* <a href='https://www.jobstreet.com.ph/profile/erviejohn-villareal-7dLQxc0QRz' target='_blank'>
                     <FaJobs size={50} color='white' />
