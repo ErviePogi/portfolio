@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Navbar.css';
 import { Link, NavLink } from "react-router-dom";
 import { FaFilePdf } from "react-icons/fa";
-import Resume from '../../files/ErvieJohnVillareal-Resume-Dec2025.pdf';
+import Resume from '../../files/ErvieJohnVillareal-Resume-Jan2026.pdf';
 
 function Navbar() {
   const [active, setActive] = useState("nav__menu");
